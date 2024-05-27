@@ -76,7 +76,7 @@ Key features of ReactJS include:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rachitcitrusbug/drf-and-react-sample.git
+   git clone https://github.com/JayendraCitrusbug/drf-and-react-sample.git
    ```
 
 2. Navigate to the backend directory:
